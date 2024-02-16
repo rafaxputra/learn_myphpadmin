@@ -32,7 +32,8 @@ A: Solusi agar data pada soal 2 dapat ditambahkan yaitu dengan merubah dahulu ni
 - jumlah = 5 
 Q : Apakah data dapat ditambahkan? Jelaskan alasannya ! <SOAL 4>
 A : Data dapat ditambahkan karena sebelumnya belum ada data ini dalam tabel detail_penjuaalan
-	![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/5d2546ae-dc8b-43d8-95bc-0a2225d3ba7c)
+
+![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/5d2546ae-dc8b-43d8-95bc-0a2225d3ba7c)
 
 
 8. Q : Jelaskan bagaimana solusi agar data pada soal 4 dapat ditambahkan <SOAL 5>
