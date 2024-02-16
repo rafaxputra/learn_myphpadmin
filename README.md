@@ -1,3 +1,3 @@
-# learn_myphpadmin
+# learn_phpmyadmin
 Praktikum Konsep Basis Data
 
