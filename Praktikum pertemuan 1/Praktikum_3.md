@@ -20,7 +20,7 @@
 	![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/88574e46-b614-4d95-9b96-55fba8d50c52)
 
 5. Q: Jelaskan bagaimana solusi agar data pada soal 2 dapat ditambahkan <SOAL 3 >
-A: Solusi agar data pada soal 2 dapat ditambahkan yaitu dengan merubah dahulu nilai dari kode_penjualan Doni yang awalnya 2 menjadi 4
+> A: Solusi agar data pada soal 2 dapat ditambahkan yaitu dengan merubah dahulu nilai dari kode_penjualan Doni yang awalnya 2 menjadi 4
 
 	![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/c794447e-36f8-4b19-8525-2d752da7d9a8)
 
