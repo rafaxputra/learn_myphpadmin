@@ -29,7 +29,8 @@
 - kode_penjualan = 2 
 - kode_barang = 3 
 - harga = 5.000 
-- jumlah = 5 
+- jumlah = 5
+
 Q : Apakah data dapat ditambahkan? Jelaskan alasannya ! <SOAL 4>
 > A : Data dapat ditambahkan karena sebelumnya belum ada data ini dalam tabel detail_penjuaalan
 
