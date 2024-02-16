@@ -1,5 +1,7 @@
-5.	Masuk pada tabel penjualan dan menambahkan datanya melalui menu insert
-6.	Tambahkan data penjualan sebagaimana berikut : <SOAL 1>
+**Praktikum 3**
+
+1.	Untuk menambahkan data pada tabel penjualan, pilih tabel penjualan dan masuk menu insert
+2.	Tambahkan data penjualan sebagaimana berikut : <SOAL 1>
 - kode_penjualan = 3 
 - tgl = 8 Februari 2021 
 - kasir = Dini 
