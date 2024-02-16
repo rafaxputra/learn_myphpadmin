@@ -10,6 +10,5 @@
 ![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/80af27bc-88e5-47c7-aae9-c103ffc5da4f)
 
 4. Tabel akan muncul setelah file selesai direstore
-
- ![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/393c46a8-cb32-4f38-b176-532169e5180d)
+   ![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/393c46a8-cb32-4f38-b176-532169e5180d)
 
