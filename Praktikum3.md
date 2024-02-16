@@ -9,7 +9,7 @@
 - kasir = Dini 
 - total_penjualan = 10.000
 
-![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/c24c94d9-de9b-417d-bb18-865bdf3045d9)
+	![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/c24c94d9-de9b-417d-bb18-865bdf3045d9)
 
 4. Menambahkan data penjualan sebagaimana berikut : <SOAL 2>
 - kode_penjualan = 2 
@@ -17,12 +17,12 @@
 - kasir = Dini 
 - total_penjualan = 20.000
 
-![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/88574e46-b614-4d95-9b96-55fba8d50c52)
+	![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/88574e46-b614-4d95-9b96-55fba8d50c52)
 
 5. Q: Jelaskan bagaimana solusi agar data pada soal 2 dapat ditambahkan <SOAL 3 >
    A: Solusi agar data pada soal 2 dapat ditambahkan yaitu dengan merubah dahulu nilai dari kode_penjualan Doni yang awalnya 2 menjadi 4
 
-![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/c794447e-36f8-4b19-8525-2d752da7d9a8)
+	![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/c794447e-36f8-4b19-8525-2d752da7d9a8)
 
 6. Masuk pada tabel data_penjualan dan menambahkan datanya melalui menu insert
 7. Tambahkan data detail_penjualan sebagaimana berikut 
@@ -32,7 +32,7 @@
 - jumlah = 5 
  Q : Apakah data dapat ditambahkan? Jelaskan alasannya ! <SOAL 4>
  A : Data dapat ditambahkan karena sebelumnya belum ada data ini dalam tabel detail_penjuaalan
-![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/5d2546ae-dc8b-43d8-95bc-0a2225d3ba7c)
+	![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/5d2546ae-dc8b-43d8-95bc-0a2225d3ba7c)
 
 
 8. Q: Jelaskan bagaimana solusi agar data pada soal 4 dapat ditambahkan <SOAL 5>
