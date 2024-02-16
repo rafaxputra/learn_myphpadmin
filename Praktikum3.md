@@ -1,6 +1,6 @@
 **Praktikum 3**
 
-1.	Untuk menambahkan data pada tabel penjualan, pilih tabel penjualan dan masuk menu insert
+1.Untuk menambahkan data pada tabel penjualan, pilih tabel penjualan dan masuk menu insert
 	![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/8613d3d6-d0e7-438d-bf25-883e2cf06063)
 
 3.	Tambahkan data penjualan sebagaimana berikut : <SOAL 1>
