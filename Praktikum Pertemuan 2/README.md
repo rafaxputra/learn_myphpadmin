@@ -40,4 +40,5 @@
 
 > Bikin Tabel nya, bisa jadi lebih dari satu tabel
 
-> ![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/55fdb7ed-b033-495f-a1de-5d6737ee88e5)
+> ![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/3a2998e2-5a37-46d1-a63c-a2bdaa6f867d)
+
