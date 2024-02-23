@@ -36,6 +36,8 @@
 > Ditandai mana yang harus disimpan di database
 > 
 >![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/91163680-e683-4eb6-9d27-46cc974cd459)
->![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/aa21569e-9949-41b7-be54-0235b0571535)
+>![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/6fa8a3de-7332-4154-b8fa-62a5b5705760)
 
 > Bikin Tabel nya, bisa jadi lebih dari satu tabel
+
+> ![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/55fdb7ed-b033-495f-a1de-5d6737ee88e5)
