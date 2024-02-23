@@ -18,7 +18,8 @@
 # PRAKTIKUM 2
 
 > Desainlah Database untuk menyimpan data buku tamu.
- >**KETERANGAN :**
+
+>**KETERANGAN :**
 
   >Attribute : Kolom
   
