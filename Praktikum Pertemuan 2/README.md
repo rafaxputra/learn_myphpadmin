@@ -27,3 +27,15 @@
 
 - Saya mendisain tabel **buku tamu pernikahan** dengan atribut id_tamu, nama_tamu, alamat, tanda_tangan
   ![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/4c8703b4-f595-49a0-a36f-ad86c59762c7)
+
+# PRAKTIKUM 3
+> Desainlah Database untuk menyimpan data : 
+
+> website undangan nikah online
+>
+> Ditandai mana yang harus disimpan di database
+> 
+>![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/91163680-e683-4eb6-9d27-46cc974cd459)
+>![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/aa21569e-9949-41b7-be54-0235b0571535)
+
+> Bikin Tabel nya, bisa jadi lebih dari satu tabel
