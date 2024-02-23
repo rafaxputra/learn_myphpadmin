@@ -1,4 +1,4 @@
-**PRAKTIUKUM 1**
+**PRAKTIKUM 1**
 
 1.	Menjalankan Apache dan MySQL pada XAMPP
 ![image](https://github.com/rafaxputra/learn_myphpadmin/assets/75997309/e9874a86-30af-4856-bc6d-e90dc6f40262)
