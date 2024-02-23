@@ -21,6 +21,7 @@
 
   **KETERANGAN :**
   Attribute : Kolom
+  
   Entitas : tabel
 
 - Saya mendisain tabel **buku tamu pernikahan** dengan atribut id_tamu, nama_tamu, alamat, tanda_tangan
