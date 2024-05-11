@@ -3,7 +3,8 @@
 
 # Tambah kolom agama :
 > Tambahkan sebuah kolom agama (varchar(10)) pada tabel mahasiswa sebagai kolom terakhir
->Catat : Buat Screenshot dari perintah yang anda ketikkan
+
+> Catat : Buat Screenshot dari perintah yang anda ketikkan
 
 
 
@@ -13,6 +14,7 @@
 # Tambah kolom alamat :
 
 > Tambahkan kolom alamat(varchar(50)) pada tabel dosen sebagai kolom terakhir
+
 >Catat : Buat Screenshot dari perintah yang anda ketikkan
 
 ![Saol 2](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/926acd7e-a85f-4bd3-9388-1e64a78a5063)
@@ -22,6 +24,7 @@
 
 > Lakukan insert data ke dalam tabel-tabel yang ada pada pada database db_polinema sesuai
 dengan field, tipe data dan panjang datanya
+
 >Catat : Buat Screenshot dari perintah yang anda ketikkan
 
 # Isian data dosen:
@@ -50,6 +53,7 @@ dengan field, tipe data dan panjang datanya
 # Menampilkan semua Tabel :
 
 > Tampilkan semua tabel yang ada didalam database db_polinema
+
 >Catat : Buat Screenshot dari perintah yang anda ketikkan
 
 ![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/b0b8ff1d-64fa-412a-9a50-60db128590fe)
@@ -58,6 +62,7 @@ dengan field, tipe data dan panjang datanya
 # Menampilkan isi data tabel mahasiswa :
 
 > Tampilkan semua isi tabel yang ada didalam tabel mahasiswa
+
 >Catat : Buat Screenshot dari perintah yang anda ketikkan
 
 
@@ -67,6 +72,7 @@ dengan field, tipe data dan panjang datanya
 # Menampilkan struktur (metadata) tabel mahasiswa :
 
 >Tampilkan struktur(metadata) tabel mahasiswa
+
 >Catat : Buat Screenshot dari perintah yang anda ketikkan
 
 ![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/d0d1c4e2-eed6-4823-ab14-1e92020057f3)
@@ -74,6 +80,7 @@ dengan field, tipe data dan panjang datanya
 #  hapus kolom asal_sma :
 
 > hilangkan kolom asal_sma yang terdapat didalam tabel mahasiswa
+
 >Catat : Buat Screenshot dari perintah yang anda ketikkan
 
 ![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/7459c637-f18f-4f81-be39-0c8b1dc6772c)
