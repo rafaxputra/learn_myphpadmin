@@ -3,7 +3,7 @@
 
 
 # Pertanyaan 1 :
-
+> Himpunlah screenshot sintaksis SQL terkait hasil SELECT pada saat Praktikum
 
 
 
