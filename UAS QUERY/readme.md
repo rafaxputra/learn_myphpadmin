@@ -43,9 +43,9 @@
 
 # 05. Tampilkan data penjualan kursus berupa judul dan total penjualan diurutkan dari kursus yang penjualannya paling besar ke yang paling kecil
 
-# Konsep Map nua
+# Konsep Map nya
 ![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/656f3cdc-c984-45cd-ae96-aca3b3fa4101)
 
-# Query $ Hasilnya
+# Query & Hasilnya
 ![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/75063f10-46c9-4121-b439-d6be3ecc2805)
 
