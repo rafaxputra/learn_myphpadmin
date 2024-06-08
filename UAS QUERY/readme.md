@@ -1,4 +1,6 @@
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/490413c9-10b2-4d59-8183-122bce1c3a26)# 01. Tampilkan nama user dengan jenis kelamin perempuan diurutkan dengan Ascending
+
+
+# 01. Tampilkan nama user dengan jenis kelamin perempuan diurutkan dengan Ascending
 
 # Konsep Map nya
 
