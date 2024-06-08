@@ -4,7 +4,7 @@
 
 # Konsep Map nya
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/63838dd0-91b6-40cb-8c72-c60d3778bc53)
+![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/7047bdba-6b82-4994-8b4d-5070aff2eede)
 
 
 # Query & Hasilnya
