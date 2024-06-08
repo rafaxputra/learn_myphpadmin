@@ -45,4 +45,5 @@
 ![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/656f3cdc-c984-45cd-ae96-aca3b3fa4101)
 
 # Query $ Hasilnya
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/32b570bc-41c2-462a-8ee8-c93e75593f50)
+![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/75063f10-46c9-4121-b439-d6be3ecc2805)
+
